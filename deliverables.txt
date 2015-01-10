@@ -1,0 +1,22 @@
+Interface
+
+* Independent mode -  serves a website of it's own
+* Embedded mode - serves a chunk of page to include in another
+* REST interface
+* White boxable, but includes the owl in the default setup
+
+Teaching website
+
+* audience - people making expert systems
+* audience - people fiddling with the shell code
+* needs to be a tutorial to go from zero to proficient
+
+Shells
+
+* Support not just our expert systems, but random users
+
+Content
+
+* At least one system large enough to make a cool demo
+* A couple small ones to demo the different forms
+
